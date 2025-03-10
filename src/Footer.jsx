@@ -10,6 +10,9 @@ export default function Footer(){
             <li>Beranda</li>
             <li>Product</li>
         </ul>
+        <div className="">
+            <h2>Credit by Randika</h2>
+        </div>
     </div>
     </>
 }
